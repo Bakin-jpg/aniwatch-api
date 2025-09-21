@@ -2,131 +2,182 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import time
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
-# URL Target
-HOME_URL = "https://aniwatchtv.to/home"
-
-# Header untuk menyamar sebagai browser agar tidak diblokir
+# --- KONFIGURASI DASAR ---
+BASE_URL = "https://aniwatchtv.to"
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-    'Accept-Language': 'en-US,en;q=0.9',
-    'Referer': 'https://www.google.com/'
+    'Referer': 'https://aniwatchtv.to/'
 }
 
+# --- FUNGSI SELENIUM ---
+def setup_selenium_driver():
+    """Menyiapkan driver Selenium Chrome untuk mode headless."""
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument(f"user-agent={HEADERS['User-Agent']}")
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+    return driver
+
+# --- FUNGSI REQUESTS & SOUP ---
 def get_soup(url):
-    """Fungsi untuk mengambil dan mem-parsing halaman web."""
+    """Mengambil dan mem-parsing halaman web menggunakan Requests."""
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
+        response = requests.get(url, headers=HEADERS, timeout=20)
         response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        return soup
+        return BeautifulSoup(response.text, 'html.parser')
     except requests.exceptions.RequestException as e:
-        print(f"Error saat mengambil URL {url}: {e}")
+        print(f"Error (requests) saat mengambil URL {url}: {e}")
         return None
 
-def scrape_spotlight(soup):
-    """Fungsi untuk scrape data dari slider spotlight."""
-    spotlight_animes = []
+def get_stream_url(driver, watch_page_url):
+    """Mengambil URL streaming dari halaman tontonan menggunakan Selenium."""
+    if not watch_page_url: return None
+    print(f"  -> Mengambil stream dari: {watch_page_url}")
+    try:
+        driver.get(watch_page_url)
+        wait = WebDriverWait(driver, 25)
+        iframe = wait.until(EC.presence_of_element_located((By.ID, "iframe-embed")))
+        time.sleep(2)
+        stream_src = iframe.get_attribute('src')
+        if stream_src and 'megacloud' in stream_src:
+            print(f"    -> Ditemukan: {stream_src[:50]}...")
+            return stream_src
+        return None
+    except Exception:
+        print(f"    -> Gagal mendapatkan iframe untuk {watch_page_url}")
+        return None
+
+# --- FUNGSI SCRAPING ---
+
+def scrape_homepage_sections(soup):
+    """Mengambil data dari Spotlight dan Latest Episodes di halaman utama."""
+    data = {'spotlight': [], 'latest_episodes': []}
+
+    # Spotlight
     slider = soup.find('div', id='slider')
-    if not slider:
-        return spotlight_animes
+    if slider:
+        for item in slider.find_all('div', class_='deslide-item'):
+            title_el = item.find('div', class_='desi-head-title')
+            watch_now_el = item.find('a', class_='btn-primary')
+            if not title_el or not watch_now_el: continue
+            data['spotlight'].append({
+                'title': title_el.text.strip(),
+                'watch_url': f"{BASE_URL}{watch_now_el['href']}",
+                'image_url': item.find('img', class_='film-poster-img').get('data-src'),
+            })
 
-    for item in slider.find_all('div', class_='deslide-item'):
-        title_element = item.find('div', class_='desi-head-title')
-        description_element = item.find('div', class_='desi-description')
-        watch_now_element = item.find('a', class_='btn-primary')
-        image_element = item.find('img', class_='film-poster-img')
-
-        if not title_element or not watch_now_element:
-            continue
-
-        anime_data = {
-            'title': title_element.text.strip(),
-            'description': description_element.text.strip() if description_element else 'No description available.',
-            'watch_url': f"https://aniwatchtv.to{watch_now_element['href']}",
-            'image_url': image_element.get('data-src') or image_element.get('src'),
-            'stream_url': None
-        }
-        spotlight_animes.append(anime_data)
-    return spotlight_animes
-
-def scrape_latest_episodes(soup):
-    """Fungsi spesifik untuk scrape section 'Latest Episode'."""
-    animes = []
+    # Latest Episodes
     section = soup.find('section', class_='block_area_home')
-    if not section:
-        return animes
+    if section:
+        for item in section.find_all('div', class_='flw-item'):
+            title_el = item.find('h3', class_='film-name').find('a')
+            if not title_el or not title_el.has_attr('href'): continue
+            detail_slug = title_el['href']
+            data['latest_episodes'].append({
+                'title': title_el.get('title', '').strip(),
+                'watch_url': f"{BASE_URL}/watch{detail_slug}",
+                'image_url': item.find('img', class_='film-poster-img').get('data-src'),
+            })
+    return data
 
-    for item in section.find_all('div', class_='flw-item'):
-        title_element = item.find('h3', class_='film-name').find('a')
-        image_element = item.find('img', class_='film-poster-img')
-        
-        if not title_element:
-            continue
-            
-        watch_url = title_element['href']
-
-        anime_data = {
-            'title': title_element.get('title', '').strip(),
-            'watch_url': f"https://aniwatchtv.to{watch_url}",
-            'image_url': image_element.get('data-src') or image_element.get('src'),
-            'stream_url': None
-        }
-        animes.append(anime_data)
-    return animes
-
-def get_stream_url(watch_page_url):
-    """Fungsi untuk mengambil URL streaming dari halaman tontonan."""
-    if not watch_page_url:
-        return None
-        
-    print(f"Mengambil stream dari: {watch_page_url}")
-    soup = get_soup(watch_page_url)
+def scrape_full_catalog():
+    """
+    FUNGSI BARU: Mengambil seluruh katalog anime dari halaman A-Z.
+    Ini akan memakan waktu paling lama.
+    """
+    print("\nMemulai scraping seluruh katalog anime (A-Z)...")
+    catalog = []
+    az_list_url = f"{BASE_URL}/az-list"
+    
+    soup = get_soup(az_list_url)
     if not soup:
-        return None
+        print("  -> Gagal membuka halaman A-Z list utama.")
+        return []
 
-    iframe = soup.find('iframe', id='iframe-embed')
-    if iframe and 'src' in iframe.attrs:
-        stream_src = iframe['src']
-        print(f"  -> Ditemukan iframe source: {stream_src}")
-        return stream_src
+    # Mengambil semua link huruf dari 'A' sampai 'Z'
+    az_links = soup.select('.az-list a[href*="/az-list/"]')
+    
+    for link in az_links:
+        char_page_url = f"{BASE_URL}{link['href']}"
+        char = link.text.strip()
+        if len(char) > 1: continue # Lewati link 'All', '#', '0-9'
 
-    print(f"  -> Gagal menemukan iframe untuk {watch_page_url}")
-    return None
+        print(f"\nScraping untuk huruf: {char}")
+        
+        page_num = 1
+        while True:
+            paginated_url = f"{char_page_url}?page={page_num}"
+            print(f"  -> Mengambil halaman: {paginated_url}")
+            
+            page_soup = get_soup(paginated_url)
+            if not page_soup:
+                print(f"    -> Gagal memuat halaman {page_num} untuk huruf {char}.")
+                break
+                
+            anime_items = page_soup.select('.film_list-wrap .flw-item')
+            if not anime_items:
+                print(f"  -> Tidak ada lagi anime ditemukan untuk huruf {char}. Selesai.")
+                break # Berhenti jika tidak ada anime lagi di halaman ini
+
+            for item in anime_items:
+                title_el = item.find('h3', class_='film-name').find('a')
+                if not title_el: continue
+                
+                catalog.append({
+                    'title': title_el.get('title', '').strip(),
+                    'detail_url': f"{BASE_URL}{title_el['href']}",
+                    'image_url': item.find('img', class_='film-poster-img').get('data-src')
+                })
+
+            page_num += 1
+            time.sleep(1) # Beri jeda 1 detik antar halaman untuk tidak overload
+
+    return catalog
+
+# --- FUNGSI UTAMA (MAIN) ---
 
 def main():
-    """Fungsi utama untuk menjalankan scraper."""
-    print("Memulai proses scraping dari aniwatchtv.to...")
+    print("Memulai scraper...")
     
-    home_soup = get_soup(HOME_URL)
+    # 1. Scrape Halaman Utama (Cepat)
+    home_soup = get_soup(f"{BASE_URL}/home")
     if not home_soup:
-        print("Gagal memuat halaman utama. Proses dihentikan.")
+        print("Kritis: Gagal memuat halaman utama. Proses dihentikan.")
         return
 
-    spotlight_data = scrape_spotlight(home_soup)
-    latest_episodes = scrape_latest_episodes(home_soup)
+    homepage_data = scrape_homepage_sections(home_soup)
     
-    all_data = {
-        'spotlight': spotlight_data,
-        'latest_episodes': latest_episodes
-    }
+    # 2. Scrape Seluruh Katalog (Lama)
+    full_catalog = scrape_full_catalog()
 
-    print("Scraping data dasar selesai. Memulai pengambilan URL stream...")
+    # Simpan katalog ke file terpisah
+    with open('anime_catalog.json', 'w', encoding='utf-8') as f:
+        json.dump(full_catalog, f, ensure_ascii=False, indent=2)
+    print(f"\n{len(full_catalog)} anime dari katalog berhasil disimpan di 'anime_catalog.json'")
 
-    for section_name, animes in all_data.items():
-        print(f"\nMemproses section: '{section_name}'")
-        for anime in animes:
-            if anime.get('watch_url'):
-                stream_url = get_stream_url(anime['watch_url'])
-                anime['stream_url'] = stream_url
+    # 3. Ambil URL Stream HANYA untuk anime di halaman utama (agar tidak terlalu lama)
+    print("\nMengambil URL stream untuk anime di Halaman Utama...")
+    driver = setup_selenium_driver()
+    for section in ['spotlight', 'latest_episodes']:
+        for anime in homepage_data[section]:
+            anime['stream_url'] = get_stream_url(driver, anime['watch_url'])
+    driver.quit()
 
-    print("\nProses scraping selesai.")
-
-    output_path = 'anime_data.json'
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(all_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"Data berhasil disimpan di '{output_path}'")
+    # Simpan data halaman utama (dengan stream url) ke file terpisah
+    with open('anime_homepage.json', 'w', encoding='utf-8') as f:
+        json.dump(homepage_data, f, ensure_ascii=False, indent=2)
+    print("\nData halaman utama berhasil disimpan di 'anime_homepage.json'")
 
 if __name__ == "__main__":
     main()
