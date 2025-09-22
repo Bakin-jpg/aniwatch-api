@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koupen-chan",
+      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Theatre of Darkness: Yamishibai 15",
       "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-15-19731",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6af050edb9ef74297aa0e3adc546e0a2.jpg",
@@ -114,12 +120,6 @@
       "title": "Ruri Rocks",
       "watch_url": "https://aniwatchtv.to/watch/ruri-rocks-19763",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3008601e63660ec3634240b41edc2e65.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Apocalypse Bringer Mynoghra",
-      "watch_url": "https://aniwatchtv.to/watch/apocalypse-bringer-mynoghra-19772",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5158a52746ac1a0af5ca85fd2ff25366.jpg",
       "stream_url": null
     }
   ]
