@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Jade Dynasty",
+      "watch_url": "https://aniwatchtv.to/watch/jade-dynasty-19807",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2912cb24a8c4368a4a22af5a1126dfe3.jpg",
+      "stream_url": null
+    },
+    {
       "title": "There's No Freaking Way I'll be Your Lover! Unless...",
       "watch_url": "https://aniwatchtv.to/watch/theres-no-freaking-way-ill-be-your-lover-unless-19773",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d340e5542d2e90dbd45940f897e1fe0.jpg",
@@ -114,12 +120,6 @@
       "title": "Renegade Immortal",
       "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "City The Animation",
-      "watch_url": "https://aniwatchtv.to/watch/city-the-animation-19775",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ff626b07a13f465b0974dc05f628e7a.jpg",
       "stream_url": null
     }
   ]
