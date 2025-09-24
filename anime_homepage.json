@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "The Rising of the Shield Hero Season 4",
+      "watch_url": "https://aniwatchtv.to/watch/the-rising-of-the-shield-hero-season-4-19790",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/9f8713514ab999b515c4a96eeae87e20.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "The Rising of the Shield Hero Season 4",
-      "watch_url": "https://aniwatchtv.to/watch/the-rising-of-the-shield-hero-season-4-19790",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/9f8713514ab999b515c4a96eeae87e20.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Sakamoto Days Part 2",
       "watch_url": "https://aniwatchtv.to/watch/sakamoto-days-part-2-19787",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/200f6d513c6a0ea46258ef0b2d3d411a.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "The Rising of the Shield Hero Season 4",
+      "watch_url": "https://aniwatchtv.to/watch/the-rising-of-the-shield-hero-season-4-19790",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f388247d0d1c9dfd45c9e704ebe031aa.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Nmeneko",
+      "watch_url": "https://aniwatchtv.to/watch/nmeneko-19697",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc697363ca9cfa1498346961d0c9717.jpg",
+      "stream_url": null
+    },
     {
       "title": "Turkey!",
       "watch_url": "https://aniwatchtv.to/watch/turkey-19749",
@@ -108,18 +120,6 @@
       "title": "Koupen-chan",
       "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Theatre of Darkness: Yamishibai 15",
-      "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-15-19731",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6af050edb9ef74297aa0e3adc546e0a2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hotel Inhumans",
-      "watch_url": "https://aniwatchtv.to/watch/hotel-inhumans-19745",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0b4f738f3efefd4439779c09e8ff797.jpg",
       "stream_url": null
     }
   ]
