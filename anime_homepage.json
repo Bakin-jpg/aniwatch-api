@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kaiju No. 8 Season 2",
       "watch_url": "https://aniwatchtv.to/watch/kaiju-no-8-season-2-19792",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/6461c9a2f865136afa30424ea61586be.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Dan Da Dan Season 2",
       "watch_url": "https://aniwatchtv.to/watch/dan-da-dan-season-2-19793",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/33043b5bb1314a46d20f814dbe70f123.jpg",
@@ -51,6 +51,66 @@
   ],
   "latest_episodes": [
     {
+      "title": "Theatre of Darkness: Yamishibai 15",
+      "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-15-19731",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6af050edb9ef74297aa0e3adc546e0a2.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Who Made Me a Princess",
+      "watch_url": "https://aniwatchtv.to/watch/who-made-me-a-princess-19875",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/545666484ddbc94b7a2814ea93bd7fd5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hotel Inhumans",
+      "watch_url": "https://aniwatchtv.to/watch/hotel-inhumans-19745",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0b4f738f3efefd4439779c09e8ff797.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "City The Animation",
+      "watch_url": "https://aniwatchtv.to/watch/city-the-animation-19775",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ff626b07a13f465b0974dc05f628e7a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Gachiakuta",
+      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Cultural Exchange With a Game Centre Girl",
+      "watch_url": "https://aniwatchtv.to/watch/cultural-exchange-with-a-game-centre-girl-19761",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4445ab97836dd14b03dfab9c5de6b42a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ruri Rocks",
+      "watch_url": "https://aniwatchtv.to/watch/ruri-rocks-19763",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3008601e63660ec3634240b41edc2e65.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Apocalypse Bringer Mynoghra",
+      "watch_url": "https://aniwatchtv.to/watch/apocalypse-bringer-mynoghra-19772",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5158a52746ac1a0af5ca85fd2ff25366.jpg",
+      "stream_url": null
+    },
+    {
       "title": "You and Idol Precure♪",
       "watch_url": "https://aniwatchtv.to/watch/you-and-idol-precure-19509",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
@@ -60,66 +120,6 @@
       "title": "A Record of Mortal's Journey to Immortality Season 3",
       "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Nine: Ruler's Crown",
-      "watch_url": "https://aniwatchtv.to/watch/nine-rulers-crown-19741",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdeccca4a2f866aba719dcdb640cb8e7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Fragrant Flower Blooms with Dignity",
-      "watch_url": "https://aniwatchtv.to/watch/the-fragrant-flower-blooms-with-dignity-19789",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Summer Hikaru Died",
-      "watch_url": "https://aniwatchtv.to/watch/the-summer-hikaru-died-19783",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59ecd5571fb25e6b09ff27f580fd2fbb.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Rascal Does Not Dream of Santa Claus",
-      "watch_url": "https://aniwatchtv.to/watch/rascal-does-not-dream-of-santa-claus-19788",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e9109398449cbeab3228d6ea05c5b1d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "A Wild Last Boss Appeared!",
-      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fermat's Cuisine",
-      "watch_url": "https://aniwatchtv.to/watch/fermats-cuisine-19746",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4623b9c59ef7376b07e7ab2217df9efe.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kaiju No. 8 Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/kaiju-no-8-season-2-19792",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a3c3a24bc6aebc4b3c01ca82a5033ed.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Anne Shirley",
-      "watch_url": "https://aniwatchtv.to/watch/anne-shirley-19565",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2e271a9e9498aa1dde79ae78a7e97ca.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Case Closed",
-      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "YAIBA: Samurai Legend",
-      "watch_url": "https://aniwatchtv.to/watch/yaiba-samurai-legend-19575",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc237f80ce02963acf93eb8797e12f9f.jpg",
       "stream_url": null
     }
   ]
