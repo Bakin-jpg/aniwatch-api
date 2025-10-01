@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koupen-chan",
+      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Yano-kun's Ordinary Days",
       "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
@@ -114,12 +120,6 @@
       "title": "Hotel Inhumans",
       "watch_url": "https://aniwatchtv.to/watch/hotel-inhumans-19745",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0b4f738f3efefd4439779c09e8ff797.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Renegade Immortal",
-      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
       "stream_url": null
     }
   ]
