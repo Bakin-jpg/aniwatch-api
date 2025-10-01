@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Yano-kun's Ordinary Days",
+      "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Gatherer's Adventure in Isekai",
       "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
@@ -114,12 +120,6 @@
       "title": "Renegade Immortal",
       "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
       "stream_url": null
     }
   ]
