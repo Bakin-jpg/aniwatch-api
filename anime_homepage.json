@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "Hero Without a Class: Who Even Needs Skills?!",
-      "watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Dress-Up Darling Season 2",
       "watch_url": "https://aniwatchtv.to/watch/my-dress-up-darling-season-2-19794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
@@ -50,6 +50,30 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Let's Play",
+      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1335e86cdefd2beacec85fdec69d783.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Dark History of the Reincarnated Villainess",
+      "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-19903",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Kakuriyo: Bed and Breakfast for Spirits 2",
+      "watch_url": "https://aniwatchtv.to/watch/kakuriyo-bed-and-breakfast-for-spirits-2-19919",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/502c056094ff25ca5fe7cbd1ff6bb38e.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1721/151097l.jpg",
+      "stream_url": null
+    },
     {
       "title": "Wandance",
       "watch_url": "https://aniwatchtv.to/watch/wandance-19915",
@@ -96,30 +120,6 @@
       "title": "2200-nen Neko no Kuni Nippon",
       "watch_url": "https://aniwatchtv.to/watch/2200-nen-neko-no-kuni-nippon-19947",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5ffc12bb1a88c998baa32987d65389.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
-      "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01673a7d3c4080cb4773e105a1aaa215.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gintama: 3-Z Ginpachi Sensei",
-      "watch_url": "https://aniwatchtv.to/watch/gintama-3-z-ginpachi-sensei-19924",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "A Gatherer's Adventure in Isekai",
-      "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Isekai Quartet 3",
-      "watch_url": "https://aniwatchtv.to/watch/isekai-quartet-3-19951",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
       "stream_url": null
     }
   ]
