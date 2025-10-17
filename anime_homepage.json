@@ -51,6 +51,24 @@
   ],
   "latest_episodes": [
     {
+      "title": "Cats Eye",
+      "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Anila to Cocora",
+      "watch_url": "https://aniwatchtv.to/watch/anila-to-cocora-19942",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc06c0c06cac03acdb596b5a5991b82.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dragon Raja Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/dragon-raja-season-2-19811",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cda2c84e268ea0ccad62300808dfaf5e.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Potion, Wagami wo Tasukeru",
       "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
@@ -102,24 +120,6 @@
       "title": "Koala's Diary",
       "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Divine Manifestation",
-      "watch_url": "https://aniwatchtv.to/watch/divine-manifestation-19952",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338524a0e758130baa705cc7ae1d6091.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Eclipse of Illusion",
-      "watch_url": "https://aniwatchtv.to/watch/eclipse-of-illusion-19823",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fed3cbd63a45b416c3ff9acbda18c8b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ugoku! Neko Mukashibanashi",
-      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
       "stream_url": null
     }
   ]
