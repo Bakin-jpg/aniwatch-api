@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ugoku! Neko Mukashibanashi",
+      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Let's Play",
       "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1335e86cdefd2beacec85fdec69d783.jpg",
@@ -114,12 +120,6 @@
       "title": "Yano-kun's Ordinary Days",
       "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Forget That Night, Your Majesty",
-      "watch_url": "https://aniwatchtv.to/watch/forget-that-night-your-majesty-19881",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7345272ef9f0c66bd005f2087117fa48.jpg",
       "stream_url": null
     }
   ]
