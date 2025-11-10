@@ -1,6 +1,18 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
@@ -35,91 +47,79 @@
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
       "stream_url": null
+    }
+  ],
+  "latest_episodes": [
+    {
+      "title": "Hands Off: Sawaranaide Kotesashi-kun [UNCENSORED]",
+      "watch_url": "https://aniwatchtv.to/watch/hands-off-sawaranaide-kotesashi-kun-uncensored-19943",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f26bf6c5f79a0f4860411e3bc9a75aa5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hands Off: Sawaranaide Kotesashi-kun",
+      "watch_url": "https://aniwatchtv.to/watch/hands-off-sawaranaide-kotesashi-kun-19896",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffb7ca502ab7d2e7d47e45c710f6de37.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Gachiakuta",
+      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Fated Magical Princess: Who Made Me a Princess",
+      "watch_url": "https://aniwatchtv.to/watch/the-fated-magical-princess-who-made-me-a-princess-19875",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bf5d4a75c79a3b89c8c4c6e15f5a1f.jpg",
+      "stream_url": null
     },
     {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
       "stream_url": null
     },
     {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
-      "stream_url": null
-    }
-  ],
-  "latest_episodes": [
-    {
-      "title": "Umamusume: Cinderella Gray Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/umamusume-cinderella-gray-part-2-19917",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
       "stream_url": null
     },
     {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
+      "title": "Alma-chan Wants to Have a Family!",
+      "watch_url": "https://aniwatchtv.to/watch/alma-chan-wants-to-have-a-family-19888",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9620a43e65d3fb7bf941e890c58014be.jpg",
       "stream_url": null
     },
     {
-      "title": "You and Idol Precure♪",
-      "watch_url": "https://aniwatchtv.to/watch/you-and-idol-precure-19509",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
+      "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
+      "watch_url": "https://aniwatchtv.to/watch/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator-19911",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/769091e549c5d0db95b91dddd2ac9646.jpg",
       "stream_url": null
     },
     {
-      "title": "SI-VIS: The Sound of Heroes",
-      "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
+      "title": "Mechanical Marie",
+      "watch_url": "https://aniwatchtv.to/watch/mechanical-marie-19900",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
       "stream_url": null
     },
     {
-      "title": "A Record of Mortal's Journey to Immortality Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
+      "title": "Tales of Herding Gods",
+      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
       "stream_url": null
     },
     {
-      "title": "Battle Through The Heavens 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kingdom: Season 6",
-      "watch_url": "https://aniwatchtv.to/watch/kingdom-season-6-19914",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f5f2d39e92ac10eb0e809e39bd430aa.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "My Friend's Little Sister Has It In for Me",
-      "watch_url": "https://aniwatchtv.to/watch/my-friends-little-sister-has-it-in-for-me-17507",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9db45e342f285a771967ee6ec351848.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ranma ½ (2024) 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/ranma-2024-2nd-season-19926",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52efb4fd826d3563df095495fef52d27.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tojima Tanzaburo Wants to Be a Masked Rider",
-      "watch_url": "https://aniwatchtv.to/watch/tojima-tanzaburo-wants-to-be-a-masked-rider-19892",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gnosia",
-      "watch_url": "https://aniwatchtv.to/watch/gnosia-19893",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc4a5d9fd2ae80d993c141391e334476.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Touring After the Apocalypse",
-      "watch_url": "https://aniwatchtv.to/watch/touring-after-the-apocalypse-19894",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91bd00ecc10b7f8d0b29ac4a24bc83da.jpg",
+      "title": "Li'l Miss Vampire Can't Suck Right",
+      "watch_url": "https://aniwatchtv.to/watch/lil-miss-vampire-cant-suck-right-19897",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5edab5f66240b8c9d114c41ac5fcfe79.jpg",
       "stream_url": null
     }
   ]
