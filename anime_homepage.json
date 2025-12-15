@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Wild Last Boss Appeared!",
+      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
       "stream_url": null
     },
     {
@@ -19,15 +19,15 @@
       "stream_url": null
     },
     {
-      "title": "The Banished Court Magician Aims to Become the Strongest",
-      "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
     },
     {
-      "title": "A Wild Last Boss Appeared!",
-      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
+      "title": "The Banished Court Magician Aims to Become the Strongest",
+      "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Divine Manifestation",
+      "watch_url": "https://aniwatchtv.to/watch/divine-manifestation-19952",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338524a0e758130baa705cc7ae1d6091.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Man From Dao Xiang Cun",
+      "watch_url": "https://aniwatchtv.to/watch/the-man-from-dao-xiang-cun-19873",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6dac75da5aef7af7b47ed4a18b590107.jpg",
+      "stream_url": null
+    },
     {
       "title": "Renegade Immortal",
       "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
@@ -108,18 +120,6 @@
       "title": "Alma-chan Wants to Have a Family!",
       "watch_url": "https://aniwatchtv.to/watch/alma-chan-wants-to-have-a-family-19888",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9620a43e65d3fb7bf941e890c58014be.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mechanical Marie",
-      "watch_url": "https://aniwatchtv.to/watch/mechanical-marie-19900",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Li'l Miss Vampire Can't Suck Right",
-      "watch_url": "https://aniwatchtv.to/watch/lil-miss-vampire-cant-suck-right-19897",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5edab5f66240b8c9d114c41ac5fcfe79.jpg",
       "stream_url": null
     }
   ]
