@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Secrets of the Rivers",
+      "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Beyblade X",
+      "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
+      "stream_url": null
+    },
+    {
       "title": "Let's Play",
       "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
@@ -108,18 +120,6 @@
       "title": "Yano-kun's Ordinary Days",
       "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ninja vs. Gokudo",
-      "watch_url": "https://aniwatchtv.to/watch/ninja-vs-gokudo-19887",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Chitose Is in the Ramune Bottle",
-      "watch_url": "https://aniwatchtv.to/watch/chitose-is-in-the-ramune-bottle-19916",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4758edde5ee74d0be518cc17c20f7705.jpg",
       "stream_url": null
     }
   ]
