@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Gachiakuta",
+      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/66612b4eeee3a84d5cd704db0eef65cf.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
       "watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/897effd8d1c3438cc0396f653dc118dc.jpg",
@@ -41,15 +47,27 @@
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
-    },
-    {
-      "title": "The Banished Court Magician Aims to Become the Strongest",
-      "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Princession Orchestra",
+      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "So You're Raising a Warrior",
+      "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Secrets of the Rivers",
+      "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
+      "stream_url": null
+    },
     {
       "title": "Potion, Wagami wo Tasukeru",
       "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
@@ -93,8 +111,8 @@
       "stream_url": null
     },
     {
-      "title": "Awkward Senpai",
-      "watch_url": "https://aniwatchtv.to/watch/awkward-senpai-19918",
+      "title": "My Awkward Senpai",
+      "watch_url": "https://aniwatchtv.to/watch/my-awkward-senpai-19918",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7875b4e4be9b36a0b02342b24b72da53.jpg",
       "stream_url": null
     },
@@ -102,24 +120,6 @@
       "title": "Koala's Diary",
       "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Secrets of the Rivers",
-      "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Beyblade X",
-      "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
-      "stream_url": null
-    },
-    {
-      "title": "Let's Play",
-      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
       "stream_url": null
     }
   ]
