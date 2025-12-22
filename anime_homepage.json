@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Gachiakuta",
+      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/66612b4eeee3a84d5cd704db0eef65cf.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -10,12 +16,6 @@
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gachiakuta",
-      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/66612b4eeee3a84d5cd704db0eef65cf.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Battle Through The Heavens 5th Season",
+      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
+      "stream_url": null
+    },
     {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
@@ -114,12 +120,6 @@
       "title": "Tales of Herding Gods",
       "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "A Record of Mortal's Journey to Immortality Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
       "stream_url": null
     }
   ]
