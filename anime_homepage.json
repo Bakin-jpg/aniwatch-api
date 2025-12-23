@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+      "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a95b402657d2c052ef51a04440af84c7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Gachiakuta",
       "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/66612b4eeee3a84d5cd704db0eef65cf.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
-      "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a95b402657d2c052ef51a04440af84c7.jpg",
-      "stream_url": null
-    },
-    {
       "title": "A Gatherer's Adventure in Isekai",
       "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
@@ -50,6 +50,36 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+      "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01673a7d3c4080cb4773e105a1aaa215.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Gintama: 3-Z Ginpachi Sensei",
+      "watch_url": "https://aniwatchtv.to/watch/gintama-3-z-ginpachi-sensei-19924",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Plus-sized Misadventures in Love!",
+      "watch_url": "https://aniwatchtv.to/watch/plus-sized-misadventures-in-love-19890",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c3c1ffbc4da69ad24a1e3e5561197a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Isekai Quartet 3",
+      "watch_url": "https://aniwatchtv.to/watch/isekai-quartet-3-19951",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Mangaka's Weirdly Wonderful Workplace",
+      "watch_url": "https://aniwatchtv.to/watch/a-mangakas-weirdly-wonderful-workplace-19895",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02dc4031d959c8fda991bdca0de28ffd.jpg",
+      "stream_url": null
+    },
     {
       "title": "Battle Through The Heavens 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
@@ -90,36 +120,6 @@
       "title": "Renegade Immortal",
       "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gachiakuta",
-      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
-      "watch_url": "https://aniwatchtv.to/watch/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator-19911",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/769091e549c5d0db95b91dddd2ac9646.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mechanical Marie",
-      "watch_url": "https://aniwatchtv.to/watch/mechanical-marie-19900",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Li'l Miss Vampire Can't Suck Right",
-      "watch_url": "https://aniwatchtv.to/watch/lil-miss-vampire-cant-suck-right-19897",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5edab5f66240b8c9d114c41ac5fcfe79.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
       "stream_url": null
     }
   ]
