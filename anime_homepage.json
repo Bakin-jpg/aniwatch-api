@@ -51,6 +51,24 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koala's Diary",
+      "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "This Monster Wants to Eat Me",
+      "watch_url": "https://aniwatchtv.to/watch/this-monster-wants-to-eat-me-19923",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd6d01f1b67067e85271fdf78b690c2f.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "BanG Dream-chan",
+      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The God of War Dominates",
       "watch_url": "https://aniwatchtv.to/watch/the-god-of-war-dominates-4037",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd7927e81e521af7fb95ed010d6f3fcf.jpg",
@@ -102,24 +120,6 @@
       "title": "The Gate of Mystical Realm",
       "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ugoku! Neko Mukashibanashi",
-      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "2200-nen Neko no Kuni Nippon",
-      "watch_url": "https://aniwatchtv.to/watch/2200-nen-neko-no-kuni-nippon-19947",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5ffc12bb1a88c998baa32987d65389.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Monster Strike: Deadverse Reloaded",
-      "watch_url": "https://aniwatchtv.to/watch/monster-strike-deadverse-reloaded-19882",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/591ee825ee4c1fd6c9cdaf98f8c9b852.jpg",
       "stream_url": null
     }
   ]
