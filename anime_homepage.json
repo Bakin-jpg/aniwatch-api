@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
       "watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/897effd8d1c3438cc0396f653dc118dc.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "My Hero Academia Final Season",
-      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
-      "stream_url": null
-    },
-    {
       "title": "A Wild Last Boss Appeared!",
       "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "SI-VIS: The Sound of Heroes",
+      "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Daily Life of the Immortal King 5",
+      "watch_url": "https://aniwatchtv.to/watch/the-daily-life-of-the-immortal-king-5-20061",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
+      "stream_url": null
+    },
     {
       "title": "Kingdom: Season 6",
       "watch_url": "https://aniwatchtv.to/watch/kingdom-season-6-19914",
@@ -108,18 +120,6 @@
       "title": "Princession Orchestra",
       "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Punirunes: Puni 3",
-      "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Himitsu no AiPri 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
       "stream_url": null
     }
   ]
