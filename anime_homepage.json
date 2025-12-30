@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "A Gatherer's Adventure in Isekai",
+      "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "A Gatherer's Adventure in Isekai",
-      "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Gachiakuta",
       "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/66612b4eeee3a84d5cd704db0eef65cf.jpg",
@@ -50,6 +50,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Celestial Above All",
+      "watch_url": "https://aniwatchtv.to/watch/celestial-above-all-19825",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d9f0ae9f25f1229dd87d3a2f418e339.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ascendants of the Nine Suns",
+      "watch_url": "https://aniwatchtv.to/watch/ascendants-of-the-nine-suns-20021",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a383354f8ef4ab0bb5ffcd37868daea.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Alchemist's Rise",
+      "watch_url": "https://aniwatchtv.to/watch/the-alchemists-rise-20045",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e80df6b75fc03807d49253130068a756.jpg",
+      "stream_url": null
+    },
     {
       "title": "A Mangaka's Weirdly Wonderful Workplace",
       "watch_url": "https://aniwatchtv.to/watch/a-mangakas-weirdly-wonderful-workplace-19895",
@@ -102,24 +120,6 @@
       "title": "A Record of Mortal's Journey to Immortality Season 3",
       "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Battle Through The Heavens 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Li'l Miss Vampire Can't Suck Right",
-      "watch_url": "https://aniwatchtv.to/watch/lil-miss-vampire-cant-suck-right-19897",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5edab5f66240b8c9d114c41ac5fcfe79.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "SI-VIS: The Sound of Heroes",
-      "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
       "stream_url": null
     }
   ]
