@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Secrets of the Rivers",
+      "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Gate of Mystical Realm",
+      "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
       "watch_url": "https://aniwatchtv.to/watch/kaguya-sama-love-is-war-stairway-to-adulthood-20441",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b248e1b589237848f79ac3cfebace8c0.jpg",
@@ -108,18 +120,6 @@
       "title": "Transcend Evolution",
       "watch_url": "https://aniwatchtv.to/watch/transcend-evolution-20433",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87d1b84204c99d67104496d81bc08283.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Lingwu Continent",
-      "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Martial Shattered Galaxy",
-      "watch_url": "https://aniwatchtv.to/watch/martial-shattered-galaxy-19844",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21e9cf902763ae6cbb6c3d4a491f4e7.jpg",
       "stream_url": null
     }
   ]
