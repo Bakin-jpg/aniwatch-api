@@ -1,15 +1,21 @@
 {
   "spotlight": [
     {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "watch_url": "https://aniwatchtv.to/watch/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power-20309",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/adbc83ab359271f69f9c6b73eb116dd6.jpg",
       "stream_url": null
     },
     {
       "title": "Jack-of-All-Trades, Party of None",
       "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/faf020c2df4889bce41a152a4c5e5513.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
       "stream_url": null
     },
     {
@@ -22,12 +28,6 @@
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/897effd8d1c3438cc0396f653dc118dc.jpg",
       "stream_url": null
     },
     {
@@ -51,6 +51,24 @@
   ],
   "latest_episodes": [
     {
+      "title": "Soul of the Dragon",
+      "watch_url": "https://aniwatchtv.to/watch/soul-of-the-dragon-20033",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82f226ad3943dd89fb491ff1fb053022.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Transcend Evolution",
+      "watch_url": "https://aniwatchtv.to/watch/transcend-evolution-20433",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87d1b84204c99d67104496d81bc08283.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Sword and Fairy 3",
+      "watch_url": "https://aniwatchtv.to/watch/sword-and-fairy-3-20437",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c7c45a1dbe2d533079b3677d4c4c960.jpg",
+      "stream_url": null
+    },
+    {
       "title": "You Can't Be In a Rom-Com with Your Childhood Friends!",
       "watch_url": "https://aniwatchtv.to/watch/you-cant-be-in-a-rom-com-with-your-childhood-friends-20257",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/205fb9fcf714af644cf1510fb26c9f34.jpg",
@@ -59,7 +77,7 @@
     {
       "title": "Golden Kamuy Final Season",
       "watch_url": "https://aniwatchtv.to/watch/golden-kamuy-final-season-20373",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a6fe15f1fefaf611ff21dc669f7ee1a.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5ccdf8513717ea0b6b3a4abd716c079.jpg",
       "stream_url": null
     },
     {
@@ -102,24 +120,6 @@
       "title": "Renegade Immortal",
       "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Journal with Witch",
-      "watch_url": "https://aniwatchtv.to/watch/journal-with-witch-20349",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48402ad1a3c9705afba26227a3244704.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
-      "watch_url": "https://aniwatchtv.to/watch/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power-20309",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e161cdd3ca26636b67f01baf62385623.jpg",
       "stream_url": null
     }
   ]
