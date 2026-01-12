@@ -1,6 +1,18 @@
 {
   "spotlight": [
     {
+      "title": "Hell's Paradise Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
       "watch_url": "https://aniwatchtv.to/watch/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power-20309",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/adbc83ab359271f69f9c6b73eb116dd6.jpg",
@@ -31,25 +43,25 @@
       "stream_url": null
     },
     {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
-    },
-    {
-      "title": "Gachiakuta",
-      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/66612b4eeee3a84d5cd704db0eef65cf.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Koupen-chan",
+      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
+      "stream_url": null
+    },
     {
       "title": "Theatre of Darkness: Yamishibai 16",
       "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
@@ -108,18 +120,6 @@
       "title": "Kunon the Sorcerer Can See",
       "watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09a1343f159cd056e35ce68dbb12ede.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kaya-chan Isn't Scary",
-      "watch_url": "https://aniwatchtv.to/watch/kaya-chan-isnt-scary-20289",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7808ae757c0314c6bd70f54c476f1e7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "You and I Are Polar Opposites",
-      "watch_url": "https://aniwatchtv.to/watch/you-and-i-are-polar-opposites-20369",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb483187b3b2ec503ee3aca06211d063.jpg",
       "stream_url": null
     }
   ]
