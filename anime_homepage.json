@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Hell's Paradise Season 2",
       "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Soul Land 2: Peerless Tang Sect",
+      "watch_url": "https://aniwatchtv.to/watch/soul-land-2-peerless-tang-sect-18416",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
     {
       "title": "Theatre of Darkness: Yamishibai 16",
       "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
@@ -108,18 +120,6 @@
       "title": "Kunon the Sorcerer Can See",
       "watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09a1343f159cd056e35ce68dbb12ede.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hana-Kimi",
-      "watch_url": "https://aniwatchtv.to/watch/hana-kimi-20285",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9405357f244e97183f0aba8fc86a2f42.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kaya-chan Isn't Scary",
-      "watch_url": "https://aniwatchtv.to/watch/kaya-chan-isnt-scary-20289",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7808ae757c0314c6bd70f54c476f1e7.jpg",
       "stream_url": null
     }
   ]
