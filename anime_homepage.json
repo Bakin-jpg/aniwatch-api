@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Frieren: Beyond Journey's End Season 2",
       "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,66 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "The Gate of Mystical Realm",
+      "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hell Teacher: Jigoku Sensei Nube Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/hell-teacher-jigoku-sensei-nube-part-2-20225",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d9d94b1b81b27beaa317c3689825bd2.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Tamon's B-Side",
+      "watch_url": "https://aniwatchtv.to/watch/tamons-b-side-20353",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8339acdf333fbe06f317a6c5cb0a748d.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Blue Orchestra Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/the-blue-orchestra-season-2-19904",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/818b8d0df6e81a1b7d8dc9abd2127608.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Gentle Noble's Vacation Recommendation",
+      "watch_url": "https://aniwatchtv.to/watch/a-gentle-nobles-vacation-recommendation-20281",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "My Star Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/my-star-season-3-20397",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacda0503215fb489feb38d631a92946.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Shiboyugi: Playing Death Games to Put Food on the Table",
+      "watch_url": "https://aniwatchtv.to/watch/shiboyugi-playing-death-games-to-put-food-on-the-table-20325",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/464f534b69c1af48c69c111ab3de093e.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "An Adventurer's Daily Grind at Age 29",
+      "watch_url": "https://aniwatchtv.to/watch/an-adventurers-daily-grind-at-age-29-20253",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a84a0926a95efb5991b1cdc92af53db0.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
+      "watch_url": "https://aniwatchtv.to/watch/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-20269",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d7e8f7a43f2c421de05a94c2098988c.jpg",
+      "stream_url": null
+    },
     {
       "title": "Ugoku! Neko Mukashibanashi",
       "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
@@ -60,66 +120,6 @@
       "title": "Sousou no Frieren - Marumaru no Mahou (Mini Anime)",
       "watch_url": "https://aniwatchtv.to/watch/sousou-no-frieren-marumaru-no-mahou-mini-anime-18640",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b7d46aae55fcd98e1d4c8eb246abb7e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
-      "watch_url": "https://aniwatchtv.to/watch/ill-live-a-long-life-to-dote-on-my-favorite-stepbrother-20213",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261c1185744fb483b4653a3a7adab30a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Case Book of Arne",
-      "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Darwin Incident",
-      "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yoroi Shin Den Samurai Troopers",
-      "watch_url": "https://aniwatchtv.to/watch/yoroi-shin-den-samurai-troopers-20209",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0785b57727c52e0eb15928fff4a4f44.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
-      "watch_url": "https://aniwatchtv.to/watch/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-20297",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f05a21fb03d2b7b92a264fee0e1a2e1a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
-      "watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cac39dab61221a2ed90e377a6294bf2d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tune In to the Midnight Heart",
-      "watch_url": "https://aniwatchtv.to/watch/tune-in-to-the-midnight-heart-20361",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ee47b00ebf3c43352943474ac969c37.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Demon King's Daughter Is Too Kind!!",
-      "watch_url": "https://aniwatchtv.to/watch/the-demon-kings-daughter-is-too-kind-20221",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/950f2dfb3b0bf4b900666fa1beb0e1b0.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Immortality 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/immortality-5th-season-20465",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2d6b7b769c5bf623e1976a63b0df500.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Back as Immortal Lord",
-      "watch_url": "https://aniwatchtv.to/watch/back-as-immortal-lord-20053",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8a4d0c75f4f45c0db3fe099fb4c6072.jpg",
       "stream_url": null
     }
   ]
