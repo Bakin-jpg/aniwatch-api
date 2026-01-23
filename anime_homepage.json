@@ -51,6 +51,24 @@
   ],
   "latest_episodes": [
     {
+      "title": "Cats Eye",
+      "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Beyblade X",
+      "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
+      "stream_url": null
+    },
+    {
+      "title": "The Outcast 6",
+      "watch_url": "https://aniwatchtv.to/watch/the-outcast-6-20161",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053fcd7a316b27ba6e550054bb795a45.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Champignon Witch",
       "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
@@ -102,24 +120,6 @@
       "title": "MF Ghost Season 3",
       "watch_url": "https://aniwatchtv.to/watch/mf-ghost-season-3-20345",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f77b5cca08d5e4cd224e1394517b4756.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Sentenced to Be a Hero",
-      "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c464a5af29d7c23cee182abf1a775016.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "BanG Dream-chan",
-      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Koala's Diary",
-      "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
       "stream_url": null
     }
   ]
