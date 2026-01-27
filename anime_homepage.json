@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koupen-chan",
+      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "'Tis Time for \"Torture,\" Princess Season 2",
       "watch_url": "https://aniwatchtv.to/watch/tis-time-for-torture-princess-season-2-20337",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
@@ -114,12 +120,6 @@
       "title": "Battle Through The Heavens 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Theatre of Darkness: Yamishibai 16",
-      "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c115cae0fce14eb9481ca51a62dc6e.jpg",
       "stream_url": null
     }
   ]
