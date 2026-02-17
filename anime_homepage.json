@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Princession Orchestra",
+      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "'Tis Time for \"Torture,\" Princess Season 2",
       "watch_url": "https://aniwatchtv.to/watch/tis-time-for-torture-princess-season-2-20337",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
@@ -114,12 +120,6 @@
       "title": "Renegade Immortal",
       "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
       "stream_url": null
     }
   ]
