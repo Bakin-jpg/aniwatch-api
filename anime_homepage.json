@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koupen-chan",
+      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "'Tis Time for \"Torture,\" Princess Season 2",
       "watch_url": "https://aniwatchtv.to/watch/tis-time-for-torture-princess-season-2-20337",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
@@ -114,12 +120,6 @@
       "title": "Sakuna: Of Rice and Ruin",
       "watch_url": "https://aniwatchtv.to/watch/sakuna-of-rice-and-ruin-20509",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a2849fc3d613545b57f6795c30644cf.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
       "stream_url": null
     }
   ]
