@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Fate/strange Fake",
+      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Frieren: Beyond Journey's End Season 2",
       "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Fate/strange Fake",
-      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,66 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Medalist Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/medalist-season-2-20357",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89830adf2d1cef4e8ca44242b6fbae70.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Scum of the Brave",
+      "watch_url": "https://aniwatchtv.to/watch/scum-of-the-brave-20241",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Tojima Tanzaburo Wants to Be a Masked Rider",
+      "watch_url": "https://aniwatchtv.to/watch/tojima-tanzaburo-wants-to-be-a-masked-rider-19892",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Gnosia",
+      "watch_url": "https://aniwatchtv.to/watch/gnosia-19893",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc4a5d9fd2ae80d993c141391e334476.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fate/strange Fake",
+      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "To Your Eternity Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/to-your-eternity-season-3-19929",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8387c83ff77997e7e0a97dde036a384b.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Misanthrope Teaches a Class for Demi-Humans",
+      "watch_url": "https://aniwatchtv.to/watch/a-misanthrope-teaches-a-class-for-demi-humans-20233",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e690c68a0292960cd664e30166645b54.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Trigun Stargaze",
+      "watch_url": "https://aniwatchtv.to/watch/trigun-stargaze-20377",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cebac9506e685712cde4059633c53d.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dead Account",
+      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b368556479b832ee553e4c9f35dfeee1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Reincarnated as a Dragon Hatchling",
+      "watch_url": "https://aniwatchtv.to/watch/reincarnated-as-a-dragon-hatchling-20237",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e2524aaef714b02864ae969f7db9952.jpg",
+      "stream_url": null
+    },
     {
       "title": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
       "watch_url": "https://aniwatchtv.to/watch/ill-live-a-long-life-to-dote-on-my-favorite-stepbrother-20213",
@@ -60,66 +120,6 @@
       "title": "Blue Miburo Season 2",
       "watch_url": "https://aniwatchtv.to/watch/blue-miburo-season-2-20073",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5427f29e34a5be4957f99e432252d63a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Pokémon Horizons: The Series",
-      "watch_url": "https://aniwatchtv.to/watch/pokemon-horizons-the-series-18397",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "B.King",
-      "watch_url": "https://aniwatchtv.to/watch/bking-20157",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91ac9c5f7bfb527f0316d6a7fa09d628.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "High School! Kimengumi (2026)",
-      "watch_url": "https://aniwatchtv.to/watch/high-school-kimengumi-2026-20205",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/774f650e966401f18cb897dd5a13b6a8.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Way of Choices",
-      "watch_url": "https://aniwatchtv.to/watch/way-of-choices-20485",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9afb71d86bb89baef6f7133a7e4ed85.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Himitsu no AiPri 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ganglion",
-      "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Swords 2",
-      "watch_url": "https://aniwatchtv.to/watch/the-swords-2-20417",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fire Force Season 3 Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3f9fa4dd0f42d6ef8ca55aaefe46fbd.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Does It Count If You Lose Your Innocence to an Android?",
-      "watch_url": "https://aniwatchtv.to/watch/does-it-count-if-you-lose-your-innocence-to-an-android-20453",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7562474383b3e3d01e324a2e89782de.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Dark Moon: The Blood Altar",
-      "watch_url": "https://aniwatchtv.to/watch/dark-moon-the-blood-altar-20265",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f97c6bbdeda3a9f48bd0332409a525.jpg",
       "stream_url": null
     }
   ]
