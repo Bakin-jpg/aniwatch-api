@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Release that Witch",
+      "watch_url": "https://aniwatchtv.to/watch/release-that-witch-20536",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
+      "stream_url": null
+    },
+    {
       "title": "'Tis Time for \"Torture,\" Princess Season 2",
       "watch_url": "https://aniwatchtv.to/watch/tis-time-for-torture-princess-season-2-20337",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
@@ -114,12 +120,6 @@
       "title": "Journal with Witch",
       "watch_url": "https://aniwatchtv.to/watch/journal-with-witch-20349",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48402ad1a3c9705afba26227a3244704.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hell's Paradise Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edb439410a78d22ec940f8a938e144f5.jpg",
       "stream_url": null
     }
   ]
