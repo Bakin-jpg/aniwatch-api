@@ -57,6 +57,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ugoku! Neko Mukashibanashi",
+      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/fategrand-order-youve-lost-ritsuka-fujimaru-season-3-20469",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0468a23f4c3232539577026bc48333d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Case Book of Arne",
       "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
@@ -114,18 +126,6 @@
       "title": "Sousou no Frieren - Marumaru no Mahou (Mini Anime)",
       "watch_url": "https://aniwatchtv.to/watch/sousou-no-frieren-marumaru-no-mahou-mini-anime-18640",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b7d46aae55fcd98e1d4c8eb246abb7e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Koupen-chan",
-      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Release that Witch",
-      "watch_url": "https://aniwatchtv.to/watch/release-that-witch-20536",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
       "stream_url": null
     }
   ]
