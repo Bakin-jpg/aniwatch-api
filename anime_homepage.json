@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
@@ -46,12 +52,6 @@
       "title": "Dead Account",
       "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
     }
   ],
