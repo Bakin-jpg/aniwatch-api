@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fire Force Season 3 Part 2",
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Frieren: Beyond Journey's End Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -56,6 +56,36 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Case Closed",
+      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "watch_url": "https://aniwatchtv.to/watch/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-20590",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f86fa95ac5d78ab223d48e7032e1c4d1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Cardfight!! Vanguard: Divinez Parallactic Clash",
+      "watch_url": "https://aniwatchtv.to/watch/cardfight-vanguard-divinez-parallactic-clash-20189",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09863939d7b0375acc772d55e4d6ce8b.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "B.King",
+      "watch_url": "https://aniwatchtv.to/watch/bking-20157",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91ac9c5f7bfb527f0316d6a7fa09d628.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Rilakkuma",
+      "watch_url": "https://aniwatchtv.to/watch/rilakkuma-20755",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09fdc694bb53b1ab5b3182f3cb9f36ca.jpg",
+      "stream_url": null
+    },
     {
       "title": "Fire Force Season 3 Part 2",
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
@@ -96,36 +126,6 @@
       "title": "The Great Ruler 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/the-great-ruler-2nd-season-20457",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9781d4a77230e392c6140aaf206f2833.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Other Side of Deep Space",
-      "watch_url": "https://aniwatchtv.to/watch/the-other-side-of-deep-space-20145",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9de4a4d57d77b6fae8f915dab55d6c7d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "In Search of Gods",
-      "watch_url": "https://aniwatchtv.to/watch/in-search-of-gods-20785",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21301779f7930407fe77c5761bf3e69.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fabulous Beasts 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/fabulous-beasts-5th-season-20141",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9229de1040061dbf7dae15ed3ffacd4c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Outcast 6",
-      "watch_url": "https://aniwatchtv.to/watch/the-outcast-6-20161",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053fcd7a316b27ba6e550054bb795a45.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Monster Eater",
-      "watch_url": "https://aniwatchtv.to/watch/monster-eater-20716",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edc80eac64b3ce2a327a7ee415148f10.jpg",
       "stream_url": null
     }
   ]
