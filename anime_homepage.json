@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Dead Account",
       "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -56,6 +56,60 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Theatre of Darkness: Yamishibai 16",
+      "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c115cae0fce14eb9481ca51a62dc6e.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Any and All Living Things",
+      "watch_url": "https://aniwatchtv.to/watch/any-and-all-living-things-19698",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390172b777f9b391b2f8bad08eed508a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ingoku Danchi Deviant's Apartment Complex",
+      "watch_url": "https://aniwatchtv.to/watch/ingoku-danchi-deviants-apartment-complex-20803",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95510507ffff5b60ce932d43b12cfd4b.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Oedo Fire Slayer: The Legend of Phoenix",
+      "watch_url": "https://aniwatchtv.to/watch/oedo-fire-slayer-the-legend-of-phoenix-20217",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ghost Concert: Missing Songs",
+      "watch_url": "https://aniwatchtv.to/watch/ghost-concert-missing-songs-20749",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a14b4090ffc9ebc49abcf501b909bb0c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Food Diary of Miss Maid",
+      "watch_url": "https://aniwatchtv.to/watch/the-food-diary-of-miss-maid-20719",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
+      "stream_url": null
+    },
     {
       "title": "Battle Through The Heavens 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
@@ -72,60 +126,6 @@
       "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
       "watch_url": "https://aniwatchtv.to/watch/nippon-sangoku-the-three-nations-of-the-crimson-sun-20713",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2b9657978e872dbf913bf4fa4c82b93.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ace of Diamond Act II Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/ace-of-diamond-act-ii-season-2-20662",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fde25ec502bc136b0c32b71b712477f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Rooster Fighter",
-      "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
-      "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mao",
-      "watch_url": "https://aniwatchtv.to/watch/mao-20668",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2b0de13cd886ccab66ee5dc62cd1c9e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Other Side of Deep Space",
-      "watch_url": "https://aniwatchtv.to/watch/the-other-side-of-deep-space-20145",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9de4a4d57d77b6fae8f915dab55d6c7d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Way of Choices",
-      "watch_url": "https://aniwatchtv.to/watch/way-of-choices-20485",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9afb71d86bb89baef6f7133a7e4ed85.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Star Detective Precure!",
-      "watch_url": "https://aniwatchtv.to/watch/star-detective-precure-20481",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Dark History of the Reincarnated Villainess OAD",
-      "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-oad-20800",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77cad74477ac815e4480d15d38df0d96.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Beyblade X",
-      "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
       "stream_url": null
     }
   ]
