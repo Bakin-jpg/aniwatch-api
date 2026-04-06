@@ -1,39 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Dead Account",
-      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Frieren: Beyond Journey's End Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fire Force Season 3 Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
-      "stream_url": null
-    },
-    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
       "stream_url": null
     },
     {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
     },
     {
@@ -49,6 +25,30 @@
       "stream_url": null
     },
     {
+      "title": "Fire Force Season 3 Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dead Account",
+      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -56,6 +56,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "How Dare You!? Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/how-dare-you-season-2-20477",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60ca78348f1e9c675169ba9bed450ad5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fabulous Beasts 5th Season",
+      "watch_url": "https://aniwatchtv.to/watch/fabulous-beasts-5th-season-20141",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9229de1040061dbf7dae15ed3ffacd4c.jpg",
+      "stream_url": null
+    },
     {
       "title": "Theatre of Darkness: Yamishibai 16",
       "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
@@ -77,7 +89,7 @@
     {
       "title": "Ingoku Danchi Deviant's Apartment Complex",
       "watch_url": "https://aniwatchtv.to/watch/ingoku-danchi-deviants-apartment-complex-20803",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95510507ffff5b60ce932d43b12cfd4b.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02a1f7738606f5cf52e69bf35618dee7.jpg",
       "stream_url": null
     },
     {
@@ -114,18 +126,6 @@
       "title": "Battle Through The Heavens 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Soul Land 2: Peerless Tang Sect",
-      "watch_url": "https://aniwatchtv.to/watch/soul-land-2-peerless-tang-sect-18416",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
-      "watch_url": "https://aniwatchtv.to/watch/nippon-sangoku-the-three-nations-of-the-crimson-sun-20713",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2b9657978e872dbf913bf4fa4c82b93.jpg",
       "stream_url": null
     }
   ]
