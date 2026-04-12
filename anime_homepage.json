@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Dead Account",
+      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Jujutsu Kaisen: The Culling Game Part 1",
       "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
@@ -47,15 +53,69 @@
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
       "stream_url": null
-    },
-    {
-      "title": "Dead Account",
-      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Ace of Diamond Act II Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/ace-of-diamond-act-ii-season-2-20662",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fde25ec502bc136b0c32b71b712477f.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Mission: Yozakura Family Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/mission-yozakura-family-season-2-20614",
+      "image_url": "https://myanimelist.net/images/anime/1230/155783l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Wistoria: Wand and Sword Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/wistoria-wand-and-sword-season-2-20584",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cdbc616efbd66640e6568a44e3b6c43.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Battle Through The Heavens 5th Season",
+      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Soul Land 2: Peerless Tang Sect",
+      "watch_url": "https://aniwatchtv.to/watch/soul-land-2-peerless-tang-sect-18416",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Way of Choices",
+      "watch_url": "https://aniwatchtv.to/watch/way-of-choices-20485",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9afb71d86bb89baef6f7133a7e4ed85.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Rooster Fighter",
+      "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
+      "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Agents of the Four Seasons: Dance of Spring",
+      "watch_url": "https://aniwatchtv.to/watch/agents-of-the-four-seasons-dance-of-spring-20650",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ffc408c96a73fffbd62b792319a2c66.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Digimon Beatbreak",
+      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Star Detective Precure!",
+      "watch_url": "https://aniwatchtv.to/watch/star-detective-precure-20481",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
+      "stream_url": null
+    },
     {
       "title": "Ichijouma Mankitsugurashi!",
       "watch_url": "https://aniwatchtv.to/watch/ichijouma-mankitsugurashi-20722",
@@ -66,66 +126,6 @@
       "title": "Needy Girl Overdose",
       "watch_url": "https://aniwatchtv.to/watch/needy-girl-overdose-20644",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c95597c373292ea9cad5d54bebd8b61.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Scum of the Brave",
-      "watch_url": "https://aniwatchtv.to/watch/scum-of-the-brave-20241",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "watch_url": "https://aniwatchtv.to/watch/agents-of-the-four-seasons-dance-of-spring-20650",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ffc408c96a73fffbd62b792319a2c66.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kusunoki's Garden of Gods",
-      "watch_url": "https://aniwatchtv.to/watch/kusunokis-garden-of-gods-20704",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ed0ea979cc8d55dd8f219efefb1fd36.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mistress Kanan is Devilishly Easy",
-      "watch_url": "https://aniwatchtv.to/watch/mistress-kanan-is-devilishly-easy-20632",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4fa93108943f6f82dcccc4d8240aaed4.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mao",
-      "watch_url": "https://aniwatchtv.to/watch/mao-20668",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2b0de13cd886ccab66ee5dc62cd1c9e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Daemons of the Shadow Realm",
-      "watch_url": "https://aniwatchtv.to/watch/daemons-of-the-shadow-realm-20596",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8023e8f15754e936bcdeacfba4b6445e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Akane-banashi",
-      "watch_url": "https://aniwatchtv.to/watch/akane-banashi-20647",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebdb234882ce664a2839cdd1a443da4d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kill Blue",
-      "watch_url": "https://aniwatchtv.to/watch/kill-blue-20701",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc6f5ba33ce82976d2b3b101958890a1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Strongest Job is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
-      "watch_url": "https://aniwatchtv.to/watch/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-20674",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9264646ad21283bdb9441a4f59f324d1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yowayowa Teacher",
-      "watch_url": "https://aniwatchtv.to/watch/yowayowa-teacher-20653",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd88924ff1b7e9db6f5f75478965eb03.jpg",
       "stream_url": null
     }
   ]
