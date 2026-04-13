@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Dead Account",
       "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Jack-of-All-Trades, Party of None",
       "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
@@ -57,6 +57,66 @@
   ],
   "latest_episodes": [
     {
+      "title": "Tales of Herding Gods",
+      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fabulous Beasts 5th Season",
+      "watch_url": "https://aniwatchtv.to/watch/fabulous-beasts-5th-season-20141",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9229de1040061dbf7dae15ed3ffacd4c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Marika's Love Meter Malfunction",
+      "watch_url": "https://aniwatchtv.to/watch/marikas-love-meter-malfunction-20563",
+      "image_url": "https://myanimelist.net/images/anime/1818/155506l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ingoku Danchi Deviant's Apartment Complex",
+      "watch_url": "https://aniwatchtv.to/watch/ingoku-danchi-deviants-apartment-complex-20803",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02a1f7738606f5cf52e69bf35618dee7.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ghost Concert: Missing Songs",
+      "watch_url": "https://aniwatchtv.to/watch/ghost-concert-missing-songs-20749",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a14b4090ffc9ebc49abcf501b909bb0c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Classroom of a Black Cat and a Witch",
+      "watch_url": "https://aniwatchtv.to/watch/the-classroom-of-a-black-cat-and-a-witch-20677",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d474e468bcee49abd66141b6fbd36ba.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Food Diary of Miss Maid",
+      "watch_url": "https://aniwatchtv.to/watch/the-food-diary-of-miss-maid-20719",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+      "watch_url": "https://aniwatchtv.to/watch/nippon-sangoku-the-three-nations-of-the-crimson-sun-20713",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2b9657978e872dbf913bf4fa4c82b93.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Ace of Diamond Act II Season 2",
       "watch_url": "https://aniwatchtv.to/watch/ace-of-diamond-act-ii-season-2-20662",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fde25ec502bc136b0c32b71b712477f.jpg",
@@ -66,66 +126,6 @@
       "title": "Mission: Yozakura Family Season 2",
       "watch_url": "https://aniwatchtv.to/watch/mission-yozakura-family-season-2-20614",
       "image_url": "https://myanimelist.net/images/anime/1230/155783l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Wistoria: Wand and Sword Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/wistoria-wand-and-sword-season-2-20584",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cdbc616efbd66640e6568a44e3b6c43.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Battle Through The Heavens 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Soul Land 2: Peerless Tang Sect",
-      "watch_url": "https://aniwatchtv.to/watch/soul-land-2-peerless-tang-sect-18416",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Way of Choices",
-      "watch_url": "https://aniwatchtv.to/watch/way-of-choices-20485",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9afb71d86bb89baef6f7133a7e4ed85.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Rooster Fighter",
-      "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
-      "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "watch_url": "https://aniwatchtv.to/watch/agents-of-the-four-seasons-dance-of-spring-20650",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ffc408c96a73fffbd62b792319a2c66.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Star Detective Precure!",
-      "watch_url": "https://aniwatchtv.to/watch/star-detective-precure-20481",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ichijouma Mankitsugurashi!",
-      "watch_url": "https://aniwatchtv.to/watch/ichijouma-mankitsugurashi-20722",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d0e24cf75329ea52b698d0ae7cefcdb.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Needy Girl Overdose",
-      "watch_url": "https://aniwatchtv.to/watch/needy-girl-overdose-20644",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c95597c373292ea9cad5d54bebd8b61.jpg",
       "stream_url": null
     }
   ]
