@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Witch Hat Atelier",
+      "watch_url": "https://aniwatchtv.to/watch/witch-hat-atelier-20578",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b0cc356d2f45c82e5321139e98c2525b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -47,15 +53,39 @@
       "watch_url": "https://aniwatchtv.to/watch/i-made-friends-with-the-second-prettiest-girl-in-my-class-20608",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/87159b831fadf72c7c9c221cca6b4979.jpg",
       "stream_url": null
+    }
+  ],
+  "latest_episodes": [
+    {
+      "title": "Release that Witch",
+      "watch_url": "https://aniwatchtv.to/watch/release-that-witch-20536",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Liar Game",
+      "watch_url": "https://aniwatchtv.to/watch/liar-game-20611",
+      "image_url": "https://myanimelist.net/images/anime/1607/156078l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "watch_url": "https://aniwatchtv.to/watch/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt-20689",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa360c21d1fec0ed3100a4993a45e88b.jpg",
+      "stream_url": null
     },
     {
       "title": "Witch Hat Atelier",
       "watch_url": "https://aniwatchtv.to/watch/witch-hat-atelier-20578",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b0cc356d2f45c82e5321139e98c2525b.jpg",
+      "image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg",
       "stream_url": null
-    }
-  ],
-  "latest_episodes": [
+    },
+    {
+      "title": "Farming Life in Another World Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/farming-life-in-another-world-season-2-20599",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c74e430b229dca01c7c53f345558af4.jpg",
+      "stream_url": null
+    },
     {
       "title": "Tales of Herding Gods",
       "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
@@ -96,36 +126,6 @@
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Classroom of a Black Cat and a Witch",
-      "watch_url": "https://aniwatchtv.to/watch/the-classroom-of-a-black-cat-and-a-witch-20677",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d474e468bcee49abd66141b6fbd36ba.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fabulous Beasts 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/fabulous-beasts-5th-season-20141",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9229de1040061dbf7dae15ed3ffacd4c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Food Diary of Miss Maid",
-      "watch_url": "https://aniwatchtv.to/watch/the-food-diary-of-miss-maid-20719",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
-      "watch_url": "https://aniwatchtv.to/watch/nippon-sangoku-the-three-nations-of-the-crimson-sun-20713",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2b9657978e872dbf913bf4fa4c82b93.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ace of Diamond Act II Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/ace-of-diamond-act-ii-season-2-20662",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fde25ec502bc136b0c32b71b712477f.jpg",
       "stream_url": null
     }
   ]
